@@ -160,4 +160,4 @@ Git - одна из реализаций распределенных систе
 + git branch -d \<branchName\>
 + git branch -D \<branchName\>
 
-Для удаления ненужной ветки используются команды `git branch -d \<branchName\>` (удаляет ветку только если она уже слита в ветку *master*) и `git branch -D \<branchName\>` (удаляет ветку даже если она не слита в *master*)
+Для удаления ненужной ветки используются команды `git branch -d \<branchName\>` (удаляет ветку только если она уже слита в ветку *master*) и `git branch -D asdfhlskjfkldsajfljfdsfaf
