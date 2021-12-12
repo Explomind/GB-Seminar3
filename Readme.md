@@ -155,7 +155,7 @@ Git - одна из реализаций распределенных систе
         с3) сохранить оба варианта
         с4)
  
-### 6.5. Удаление веток.
+### 6.5. Delete branches.
 
 + git branch -d \<branchName\>
 + git branch -D \<branchName\>
